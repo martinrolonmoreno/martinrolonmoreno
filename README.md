@@ -1,10 +1,3 @@
-# ¡Greetings! Soy Martin 👋
-
-### 👨‍💻 About me
-* 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-* 🎮 Apasionado por la creación de software y el desarrollo de soluciones con integración de **IA**.
-* 💻 Actualmente enfocado en el desarrollo de aplicaciones con **Java** y proyectos en **C++**.
-* 🌱 Siempre buscando aprender nuevas tecnologías, mejorar mi código y resolver problemas complejos.
 
 ### 🛠️ Tools and Tech
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
