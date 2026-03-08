@@ -13,8 +13,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Stats
-![Estadísticas de GitHub de Martin](https://github-readme-stats.vercel.app/api?username=martinrolonmoreno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ### 📫 Contact
 * <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" /> [Martin](https://www.linkedin.com/in/mart%C3%ADn-rol%C3%B3n-moreno/)
